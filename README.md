@@ -4,6 +4,9 @@ The problem is: Create a program in Java that will read the CSV file and compute
  Lab Exercise * 30% + Long Quiz * 30% + Alternative Assessment * 40% = Final Grade
 Then, display the final grade of each student.
 
+
+
+
 import java.io.*;
 public class ReadingFile {
     public static void main (String[]args){
