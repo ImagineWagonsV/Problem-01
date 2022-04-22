@@ -1,8 +1,8 @@
 # Problem-01
-//This is one of the projects where I have a hard time figuring out, I am a beginner at programming and would like to appreciate your help!
-// The problem is: Create a program in Java that will read the CSV file and compute the Final Grade of the student using the computation below:
-// Lab Exercise * 30% + Long Quiz * 30% + Alternative Assessment * 40% = Final Grade
-//Then, display the final grade of each student.
+This is one of the projects where I have a hard time figuring out, I am a beginner at programming and would like to appreciate your help!
+The problem is: Create a program in Java that will read the CSV file and compute the Final Grade of the student using the computation below:
+ Lab Exercise * 30% + Long Quiz * 30% + Alternative Assessment * 40% = Final Grade
+Then, display the final grade of each student.
 
 import java.io.*;
 public class ReadingFile {
